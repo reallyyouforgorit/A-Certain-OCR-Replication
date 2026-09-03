@@ -1,0 +1,1676 @@
+[
+  {
+    "group_id": 1,
+    "container": {
+      "type": "textbox",
+      "box": [
+        0,
+        0,
+        830,
+        605
+      ]
+    },
+    "texts": [
+      {
+        "type": "sfx",
+        "text": "人ズズ",
+        "box": [
+          0,
+          0,
+          810,
+          309
+        ],
+        "action": "review",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "一つの銀河の中に数万〜数百万もの有人惑星が存在し、",
+        "box": [
+          23,
+          510,
+          804,
+          543
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "それぞれが独自の文明を築き上げ発展させていた。",
+        "box": [
+          16,
+          543,
+          743,
+          585
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 2,
+    "container": {
+      "type": "textbox",
+      "box": [
+        1230,
+        0,
+        1861,
+        177
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "銀河。",
+        "box": [
+          1250,
+          14,
+          1358,
+          66
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "数百億～数千億個の星が集まった",
+        "box": [
+          1255,
+          66,
+          1841,
+          105
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "全長100万光年の天体の集まり。",
+        "box": [
+          1255,
+          110,
+          1817,
+          157
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 3,
+    "container": {
+      "type": "textbox",
+      "box": [
+        1145,
+        1321,
+        1889,
+        1522
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "アルティメットまどか",
+        "box": [
+          1168,
+          1341,
+          1848,
+          1420
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "推定身長：250億光年",
+        "box": [
+          1165,
+          1423,
+          1869,
+          1502
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 4,
+    "container": {
+      "type": "textbox",
+      "box": [
+        0,
+        1325,
+        1851,
+        6200
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "まどかが手を握ると、その中で数百もの銀河がプチプチと",
+        "box": [
+          23,
+          1345,
+          788,
+          1376
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "磨り潰されていく。1つの銀河の中には数千億個もの星が",
+        "box": [
+          21,
+          1381,
+          781,
+          1413
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "存在し、そこには無数の知的生命体達が文明を築いていたが",
+        "box": [
+          16,
+          1411,
+          825,
+          1453
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "彼らは何が起こったのかすら認識する間もなく滅亡してしまった。",
+        "box": [
+          19,
+          1448,
+          908,
+          1488
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "ø=消滅した銀河の数",
+        "box": [
+          28,
+          1519,
+          352,
+          1558
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "7iv",
+        "box": [
+          141,
+          1638,
+          274,
+          1750
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "14",
+        "box": [
+          239,
+          1732,
+          307,
+          1795
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "ぱるん",
+        "box": [
+          118,
+          2199,
+          327,
+          2585
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "1,648",
+        "box": [
+          185,
+          2728,
+          317,
+          2780
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "こんなにゴミが増えたんだろ",
+        "box": [
+          166,
+          2960,
+          213,
+          3533
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "まどかの声とため息で消し飛ぶ千個以上の銀河。",
+        "box": [
+          7,
+          4167,
+          617,
+          4210
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "女神の巨大過ぎる顔の表面でも光の粒達がプチプチと",
+        "box": [
+          9,
+          4207,
+          687,
+          4240
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "潰され、まつげに絡まり、鼻の中に吸い込まれたりして",
+        "box": [
+          9,
+          4242,
+          687,
+          4275
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "しまっていた。",
+        "box": [
+          12,
+          4278,
+          195,
+          4310
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "よかったんだ",
+        "box": [
+          126,
+          4581,
+          188,
+          4868
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "sfx",
+        "text": "ゴゴ",
+        "box": [
+          0,
+          5474,
+          530,
+          5898
+        ],
+        "action": "review",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "敵対惑星を処分するために銀河を磨り潰して回るなどという面倒な事に飽きたまどかは少しだけ",
+        "box": [
+          190,
+          6042,
+          1831,
+          6089
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "力を解放し宇宙よりも巨大化する。先程まで自分がいた宇宙を見下ろすまどか。これでも本来の",
+        "box": [
+          195,
+          6093,
+          1794,
+          6133
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "彼女の大きさから見れば無限に近い小ささだったが、地球を守る為には仕方なかった。",
+        "box": [
+          195,
+          6140,
+          1639,
+          6180
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 5,
+    "container": {
+      "type": "unknown",
+      "box": [
+        967,
+        1510,
+        1047,
+        1775
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "分かんないなぁ",
+        "box": [
+          987,
+          1530,
+          1027,
+          1755
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 6,
+    "container": {
+      "type": "unknown",
+      "box": [
+        1042,
+        1510,
+        1122,
+        1726
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "小さすぎて",
+        "box": [
+          1062,
+          1530,
+          1102,
+          1706
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 7,
+    "container": {
+      "type": "unknown",
+      "box": [
+        1080,
+        1510,
+        1160,
+        1742
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "これかな…？",
+        "box": [
+          1100,
+          1530,
+          1140,
+          1722
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 8,
+    "container": {
+      "type": "unknown",
+      "box": [
+        1009,
+        1513,
+        1082,
+        1745
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "どこにあるか",
+        "box": [
+          1029,
+          1533,
+          1062,
+          1725
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 9,
+    "container": {
+      "type": "unknown",
+      "box": [
+        60,
+        1782,
+        198,
+        1864
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "246",
+        "box": [
+          80,
+          1802,
+          178,
+          1844
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 10,
+    "container": {
+      "type": "textbox",
+      "box": [
+        1113,
+        1786,
+        1298,
+        2134
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "パ44y",
+        "box": [
+          1154,
+          1806,
+          1278,
+          1867
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "nn",
+        "box": [
+          1133,
+          2009,
+          1238,
+          2114
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 11,
+    "container": {
+      "type": "unknown",
+      "box": [
+        458,
+        1863,
+        536,
+        2173
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "地球に敵対的な惑星…？",
+        "box": [
+          478,
+          1883,
+          516,
+          2153
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 12,
+    "container": {
+      "type": "unknown",
+      "box": [
+        433,
+        1866,
+        505,
+        2152
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "どこに隠れてるんだろ",
+        "box": [
+          453,
+          1886,
+          485,
+          2132
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 13,
+    "container": {
+      "type": "textbox",
+      "box": [
+        951,
+        2032,
+        1821,
+        2880
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "481",
+        "box": [
+          1374,
+          2052,
+          1463,
+          2087
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "ぶふん",
+        "box": [
+          1226,
+          2361,
+          1426,
+          2699
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "2,147",
+        "box": [
+          1170,
+          2682,
+          1283,
+          2717
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "まどかの爆乳により宇宙の中心部の銀河群が轢き潰されていく。",
+        "box": [
+          973,
+          2761,
+          1745,
+          2792
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "肌の表面で弾ける光一つ一つが銀河であり、おっぱいが揺れる衝撃で",
+        "box": [
+          971,
+          2792,
+          1801,
+          2827
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "それらがまとめて弾け飛んでいたが、まどかは気付きすらしない。",
+        "box": [
+          973,
+          2824,
+          1759,
+          2860
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 14,
+    "container": {
+      "type": "unknown",
+      "box": [
+        1223,
+        2037,
+        1376,
+        2147
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "AADY",
+        "box": [
+          1243,
+          2057,
+          1356,
+          2127
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 15,
+    "container": {
+      "type": "unknown",
+      "box": [
+        332,
+        2265,
+        431,
+        2374
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "ニK=",
+        "box": [
+          352,
+          2285,
+          411,
+          2354
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 16,
+    "container": {
+      "type": "textbox",
+      "box": [
+        304,
+        2931,
+        1202,
+        3172
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "右手の親指と人差し指で光の集合体を挟み込むまどか。",
+        "box": [
+          326,
+          2951,
+          1135,
+          2991
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "それらを何の感情も無くズリズりと揉み潰し、消滅させる。",
+        "box": [
+          328,
+          2995,
+          1182,
+          3028
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "目的の惑星が存在した銀河はとっくに胸の谷間辺りで",
+        "box": [
+          328,
+          3033,
+          1126,
+          3065
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "弾け飛んでいたが、あまりにも気配が小さかった為潰した",
+        "box": [
+          324,
+          3068,
+          1173,
+          3112
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "感覚さえ無かった。",
+        "box": [
+          326,
+          3112,
+          612,
+          3152
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 17,
+    "container": {
+      "type": "unknown",
+      "box": [
+        203,
+        2940,
+        290,
+        3467
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "はぁ…少し見てない間に",
+        "box": [
+          223,
+          2960,
+          270,
+          3447
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 18,
+    "container": {
+      "type": "unknown",
+      "box": [
+        22,
+        3242,
+        109,
+        3691
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "目障りだし邪魔だし…",
+        "box": [
+          42,
+          3262,
+          89,
+          3671
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 19,
+    "container": {
+      "type": "unknown",
+      "box": [
+        71,
+        3244,
+        161,
+        3659
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "光るホコリみたいで",
+        "box": [
+          91,
+          3264,
+          141,
+          3639
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 20,
+    "container": {
+      "type": "textbox",
+      "box": [
+        601,
+        3250,
+        951,
+        4475
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "すり",
+        "box": [
+          653,
+          3270,
+          775,
+          3350
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "951",
+        "box": [
+          722,
+          3374,
+          818,
+          3416
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "は",
+        "box": [
+          621,
+          3744,
+          880,
+          4032
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "sfx",
+        "text": "ボッ！",
+        "box": [
+          807,
+          4369,
+          931,
+          4455
+        ],
+        "action": "review",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 21,
+    "container": {
+      "type": "unknown",
+      "box": [
+        477,
+        4332,
+        660,
+        4424
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "1,347",
+        "box": [
+          497,
+          4352,
+          640,
+          4404
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 22,
+    "container": {
+      "type": "unknown",
+      "box": [
+        168,
+        4566,
+        257,
+        5023
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "最初からこうすれば",
+        "box": [
+          188,
+          4586,
+          237,
+          5003
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 23,
+    "container": {
+      "type": "unknown",
+      "box": [
+        1460,
+        4599,
+        1563,
+        4955
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "窮屈だった♡",
+        "box": [
+          1480,
+          4619,
+          1543,
+          4935
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 24,
+    "container": {
+      "type": "textbox",
+      "box": [
+        1528,
+        4604,
+        1870,
+        5002
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "ふー…",
+        "box": [
+          1548,
+          4624,
+          1599,
+          4767
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "3ih",
+        "box": [
+          1559,
+          4816,
+          1850,
+          4982
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 25,
+    "container": {
+      "type": "unknown",
+      "box": [
+        301,
+        4836,
+        646,
+        5081
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "云i",
+        "box": [
+          321,
+          4856,
+          626,
+          5061
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 26,
+    "container": {
+      "type": "unknown",
+      "box": [
+        1127,
+        5507,
+        1702,
+        5816
+      ]
+    },
+    "texts": [
+      {
+        "type": "sfx",
+        "text": "ゴゴ",
+        "box": [
+          1147,
+          5527,
+          1682,
+          5796
+        ],
+        "action": "review",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 27,
+    "container": {
+      "type": "textbox",
+      "box": [
+        294,
+        6307,
+        1425,
+        6628
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "自分の爆乳の先端にある乳首、その乳頭へ宇宙全体を押し付けるまどか。",
+        "box": [
+          319,
+          6327,
+          1405,
+          6367
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "世界全てがまどかのピンク色の乳首に衝突し、その衝撃でビッグバンの",
+        "box": [
+          317,
+          6367,
+          1393,
+          6407
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "数兆倍もの凄まじい爆発が巻き起こっていたが、彼女の乳頭は痒みすら",
+        "box": [
+          317,
+          6412,
+          1388,
+          6444
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "感じない。女神の乳首を刺激するには宇宙程度ではどうしようも無く、",
+        "box": [
+          314,
+          6451,
+          1369,
+          6484
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "まどかが数回指を動かすとそれは完全に存在を消滅させられてしまう。",
+        "box": [
+          317,
+          6491,
+          1391,
+          6531
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "むにっ♡",
+        "box": [
+          865,
+          6533,
+          1104,
+          6608
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 28,
+    "container": {
+      "type": "unknown",
+      "box": [
+        13,
+        6661,
+        112,
+        7461
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "ほらー抵抗しないと負けちゃうぞ♡",
+        "box": [
+          33,
+          6681,
+          92,
+          7441
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 29,
+    "container": {
+      "type": "unknown",
+      "box": [
+        71,
+        6661,
+        165,
+        7447
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "今の私の乳首の先っぽ以下じゃん…",
+        "box": [
+          91,
+          6681,
+          145,
+          7427
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 30,
+    "container": {
+      "type": "textbox",
+      "box": [
+        1479,
+        6663,
+        1888,
+        8773
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "宇宙ごと潰しちゃえばいいんだ♡",
+        "box": [
+          1721,
+          6683,
+          1785,
+          7539
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "中に転送して…っと",
+        "box": [
+          1728,
+          7956,
+          1775,
+          8295
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "むちっい",
+        "box": [
+          1499,
+          8601,
+          1868,
+          8753
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 31,
+    "container": {
+      "type": "textbox",
+      "box": [
+        0,
+        6665,
+        613,
+        9380
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "この宇宙、数兆光年程度の大きさなの？",
+        "box": [
+          148,
+          6685,
+          202,
+          7490
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "th",
+        "box": [
+          170,
+          8339,
+          517,
+          8623
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "sfx",
+        "text": "ダズズ",
+        "box": [
+          0,
+          8639,
+          593,
+          8962
+        ],
+        "action": "review",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "むやっ",
+        "box": [
+          235,
+          9192,
+          558,
+          9360
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 32,
+    "container": {
+      "type": "textbox",
+      "box": [
+        1753,
+        6665,
+        1873,
+        8278
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "地球に敵対する惑星なんて",
+        "box": [
+          1789,
+          6685,
+          1853,
+          7373
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "地球は左の乳首の",
+        "box": [
+          1773,
+          7956,
+          1822,
+          8258
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 33,
+    "container": {
+      "type": "textbox",
+      "box": [
+        494,
+        6934,
+        976,
+        8527
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "nñn.",
+        "box": [
+          514,
+          6954,
+          804,
+          7245
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "いなくなったね♡",
+        "box": [
+          649,
+          7621,
+          704,
+          7926
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "ぱ",
+        "box": [
+          621,
+          7955,
+          934,
+          8225
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "むん",
+        "box": [
+          639,
+          8273,
+          956,
+          8507
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 34,
+    "container": {
+      "type": "unknown",
+      "box": [
+        858,
+        7310,
+        1442,
+        7593
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "むちっ♡",
+        "box": [
+          878,
+          7330,
+          1422,
+          7573
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 35,
+    "container": {
+      "type": "unknown",
+      "box": [
+        681,
+        7604,
+        768,
+        7948
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "これで人類の敵は",
+        "box": [
+          701,
+          7624,
+          748,
+          7928
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 36,
+    "container": {
+      "type": "unknown",
+      "box": [
+        426,
+        7627,
+        512,
+        8034
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "暮らしていいんだよ?",
+        "box": [
+          446,
+          7647,
+          492,
+          8014
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 37,
+    "container": {
+      "type": "unknown",
+      "box": [
+        472,
+        7632,
+        552,
+        8002
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "その中でいつまでも",
+        "box": [
+          492,
+          7652,
+          532,
+          7982
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 38,
+    "container": {
+      "type": "unknown",
+      "box": [
+        179,
+        7702,
+        311,
+        7845
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "ず",
+        "box": [
+          199,
+          7722,
+          291,
+          7825
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  },
+  {
+    "group_id": 39,
+    "container": {
+      "type": "textbox",
+      "box": [
+        641,
+        9092,
+        1662,
+        9345
+      ]
+    },
+    "texts": [
+      {
+        "type": "narration",
+        "text": "宇宙の数十倍は巨大なまどかの乳首。",
+        "box": [
+          664,
+          9112,
+          1243,
+          9152
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "その内部の無限に続くピンク色の世界にただ一つ、地球だけが",
+        "box": [
+          668,
+          9154,
+          1634,
+          9194
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "ぼつんと浮かんでいた。完全に敵が居なくなった安全な場所で、",
+        "box": [
+          666,
+          9196,
+          1642,
+          9236
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "人類は知覚する事すら出来ない超巨大な女神に守られながら",
+        "box": [
+          666,
+          9234,
+          1616,
+          9280
+        ],
+        "action": "remove_translate",
+        "translation": null
+      },
+      {
+        "type": "narration",
+        "text": "永遠に暮らしていくのだった。",
+        "box": [
+          661,
+          9276,
+          1144,
+          9325
+        ],
+        "action": "remove_translate",
+        "translation": null
+      }
+    ]
+  }
+]
